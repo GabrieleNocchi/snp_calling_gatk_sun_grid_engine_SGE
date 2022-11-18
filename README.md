@@ -1,2 +1,3 @@
 # snp_calling_scripts_gatk
-gatk pipeline, not user friendly
+GATK pipeline, not user friendly at all
+To be organized
