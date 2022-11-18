@@ -1,0 +1,13 @@
+Qrob_Chr01_SNP_filtered
+Qrob_Chr02_SNP_filtered
+Qrob_Chr03_SNP_filtered
+Qrob_Chr04_SNP_filtered
+Qrob_Chr05_SNP_filtered
+Qrob_Chr06_SNP_filtered
+Qrob_Chr07_SNP_filtered
+Qrob_Chr08_SNP_filtered
+Qrob_Chr09_SNP_filtered
+Qrob_Chr10_SNP_filtered
+Qrob_Chr11_SNP_filtered
+Qrob_Chr12_SNP_filtered
+scaffolds_SNP_filtered

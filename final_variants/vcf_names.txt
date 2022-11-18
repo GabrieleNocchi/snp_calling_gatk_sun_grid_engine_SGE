@@ -1,0 +1,13 @@
+Qrob_Chr01
+Qrob_Chr02
+Qrob_Chr03
+Qrob_Chr04
+Qrob_Chr05
+Qrob_Chr06
+Qrob_Chr07
+Qrob_Chr08
+Qrob_Chr09
+Qrob_Chr10
+Qrob_Chr11
+Qrob_Chr12
+scaffolds

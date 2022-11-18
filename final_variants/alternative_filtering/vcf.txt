@@ -1,0 +1,13 @@
+./Qrob_Chr01_SNP.vcf
+./Qrob_Chr02_SNP.vcf
+./Qrob_Chr03_SNP.vcf
+./Qrob_Chr04_SNP.vcf
+./Qrob_Chr05_SNP.vcf
+./Qrob_Chr06_SNP.vcf
+./Qrob_Chr07_SNP.vcf
+./Qrob_Chr08_SNP.vcf
+./Qrob_Chr09_SNP.vcf
+./Qrob_Chr10_SNP.vcf
+./Qrob_Chr11_SNP.vcf
+./Qrob_Chr12_SNP.vcf
+./scaffolds_SNP.vcf

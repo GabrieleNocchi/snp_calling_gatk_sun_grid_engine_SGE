@@ -1,0 +1,13 @@
+./Qrob_Chr01.vcf
+./Qrob_Chr02.vcf
+./Qrob_Chr03.vcf
+./Qrob_Chr04.vcf
+./Qrob_Chr05.vcf
+./Qrob_Chr06.vcf
+./Qrob_Chr07.vcf
+./Qrob_Chr08.vcf
+./Qrob_Chr09.vcf
+./Qrob_Chr10.vcf
+./Qrob_Chr11.vcf
+./Qrob_Chr12.vcf
+./scaffolds.vcf
